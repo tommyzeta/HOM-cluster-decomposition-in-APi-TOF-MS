@@ -1,3 +1,4 @@
+# (HSO4)(H2SO4)(HOM) 1.Fragmentation Energy (kcal/mol) 2.Survival Probability 3.Error
 13.9105 0.000000e+00 1.410687e-03
 14.9041 1.000000e-03 1.725717e-03
 15.8977 1.700000e-02 4.303258e-03
@@ -13,6 +14,7 @@
 25.8338 1.000000e+00 1.410687e-03
 
 
+# (HSO4)(2 H2SO4)(HOM) 1.Fragmentation Energy (kcal/mol) 2.Survival Probability 3.Error
 13.9105 0.000000e+00 1.410687e-03
 14.9041 0.000000e+00 1.410687e-03
 15.8977 0.000000e+00 1.410687e-03
@@ -28,6 +30,7 @@
 25.8338 9.990000e-01 1.725717e-03
 
 
+# (HSO4)(H2SO4)(2 HOM) 1.Fragmentation Energy (kcal/mol) 2.Survival Probability 3.Error
 13.9105 0.000000e+00 1.410687e-03
 14.9041 0.000000e+00 1.410687e-03
 15.8977 0.000000e+00 1.410687e-03
@@ -43,6 +46,7 @@
 25.8338 1.000000e+00 1.410687e-03
   
   
+# (HSO4)(2 H2SO4)(2 HOM) 1.Fragmentation Energy (kcal/mol) 2.Survival Probability 3.Error
 13.9105 0.000000e+00 1.410687e-03
 14.9041 0.000000e+00 1.410687e-03
 15.8977 0.000000e+00 1.410687e-03
@@ -58,6 +62,7 @@
 25.8338 9.980000e-01 1.991025e-03
   
   
+# (HSO4)(H2SO4)(3 HOM) 1.Fragmentation Energy (kcal/mol) 2.Survival Probability 3.Error
 13.9105 0.000000e+00 1.410687e-03
 14.9041 0.000000e+00 1.410687e-03
 15.8977 0.000000e+00 1.410687e-03
@@ -73,6 +78,7 @@
 25.8338 9.990000e-01 1.725717e-03
   
   
+# (HSO4)(2 H2SO4)(3 HOM) 1.Fragmentation Energy (kcal/mol) 2.Survival Probability 3.Error
 13.9105 0.000000e+00 1.410687e-03
 14.9041 0.000000e+00 1.410687e-03
 15.8977 0.000000e+00 1.410687e-03
