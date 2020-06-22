@@ -1,3 +1,5 @@
+# (HSO4)(H2SO4)(HOM) 1.Fragmentation Energy (kcal/mol) 2.Survival Probability with 20% error on original input frequencies
+
 1.391051e+01 0.000000e+00
 1.490412e+01 2.000000e-03
 1.589773e+01 6.000000e-02
@@ -148,6 +150,7 @@
 2.583381e+01 9.990000e-01
 
 
+# (HSO4)(H2SO4)(HOM) 1.Fragmentation Energy (kcal/mol) 2.Survival Probability
 13.9105 0.000000e+00
 14.9041 1.000000e-03
 15.8977 1.700000e-02
